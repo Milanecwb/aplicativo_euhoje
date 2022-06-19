@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222894943335",
+    "project_id": "opniao-5c323",
+    "storage_bucket": "opniao-5c323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222894943335:android:0ba5af4db1322128dd78c2",
+        "android_client_info": {
+          "package_name": "com.euhoje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222894943335-0771d8k03jtkjh7d14311gobgdv9r1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CDh22o1HqTtpDpeVpLl-FJK6N50tBsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222894943335-0771d8k03jtkjh7d14311gobgdv9r1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
